@@ -1,0 +1,2 @@
+date=$(date +'%d-%m-%Y')
+tar -czf /home/vboxuser/ca/company_folder/backups/dashboard_backup_${date}.tar.gz -C /home/vboxuser/ca/company_folder/dashboard --transform "s|dashboard|dashboard-system-backup-${date}|" -p .

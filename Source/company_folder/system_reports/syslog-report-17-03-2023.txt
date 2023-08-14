@@ -1,0 +1,178 @@
+Mar 17 00:01:11 Machine daemon_logs[4523]: Daemon Started
+Mar 17 00:07:16 Machine daemon_logs[4784]: Daemon Started
+Mar 17 00:08:00 Machine daemon_logs[4784]: Checking for department reports
+Mar 17 00:08:00 Machine daemon_logs[4784]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 00:08:00 Machine daemon_logs[4784]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 00:08:00 Machine daemon_logs[4784]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 00:08:00 Machine daemon_logs[4784]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 00:09:00 Machine daemon_logs[4874]: Locking directories
+Mar 17 00:09:00 Machine daemon_logs[4784]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:09:00 Machine daemon_logs[4876]: Collecting Department Reports
+Mar 17 00:09:00 Machine daemon_logs[4784]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 00:09:00 Machine daemon_logs[4878]: Backup Executing
+Mar 17 00:09:00 Machine daemon_logs[4784]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:09:30 Machine daemon_logs[4884]: Unlocking directories
+Mar 17 00:09:30 Machine daemon_logs[4784]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:09:30 Machine daemon_logs[4888]: Generating reports
+Mar 17 00:09:30 Machine daemon_logs[4784]: Generated reports successfully, STATUS: 0
+Mar 17 00:17:13 Machine daemon_logs[5460]: Daemon Started
+Mar 17 00:17:30 Machine daemon_logs[5460]: Checking for department reports
+Mar 17 00:17:30 Machine daemon_logs[5460]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 00:17:30 Machine daemon_logs[5460]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 00:17:30 Machine daemon_logs[5460]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 00:17:30 Machine daemon_logs[5460]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 00:18:00 Machine daemon_logs[5478]: Locking directories
+Mar 17 00:18:00 Machine daemon_logs[5460]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:18:00 Machine daemon_logs[5480]: Collecting Department Reports
+Mar 17 00:18:00 Machine daemon_logs[5460]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 00:18:00 Machine daemon_logs[5482]: Backup Executing
+Mar 17 00:18:00 Machine daemon_logs[5460]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:18:30 Machine daemon_logs[5490]: Unlocking directories
+Mar 17 00:18:30 Machine daemon_logs[5460]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:18:30 Machine daemon_logs[5494]: Generating reports
+Mar 17 00:18:30 Machine daemon_logs[5460]: Generated reports successfully, STATUS: 0
+Mar 17 00:30:45 Machine daemon_logs[6171]: Daemon Started
+Mar 17 00:31:00 Machine daemon_logs[6171]: Checking for department reports
+Mar 17 00:31:00 Machine daemon_logs[6171]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has not been uploaded
+Mar 17 00:31:00 Machine daemon_logs[6171]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has not been uploaded
+Mar 17 00:31:00 Machine daemon_logs[6171]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has not been uploaded
+Mar 17 00:31:00 Machine daemon_logs[6171]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has not been uploaded
+Mar 17 00:31:38 Machine daemon_logs[6222]: Daemon Started
+Mar 17 00:32:00 Machine daemon_logs[6249]: Locking directories
+Mar 17 00:32:00 Machine daemon_logs[6171]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:32:00 Machine daemon_logs[6250]: Collecting Department Reports
+Mar 17 00:32:00 Machine daemon_logs[6171]: ERROR: Failed to retrieve department reports, STATUS: 1
+Mar 17 00:32:00 Machine daemon_logs[6252]: Backup Executing
+Mar 17 00:32:00 Machine daemon_logs[6171]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:32:30 Machine daemon_logs[6270]: Unlocking directories
+Mar 17 00:32:30 Machine daemon_logs[6171]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:32:30 Machine daemon_logs[6273]: Generating reports
+Mar 17 00:32:30 Machine daemon_logs[6171]: ERROR: Failed to generate reports, STATUS: 1
+Mar 17 00:33:00 Machine daemon_logs[6222]: Checking for department reports
+Mar 17 00:33:00 Machine daemon_logs[6222]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 00:33:00 Machine daemon_logs[6222]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 00:33:00 Machine daemon_logs[6222]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 00:33:00 Machine daemon_logs[6222]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 00:34:00 Machine daemon_logs[6346]: Locking directories
+Mar 17 00:34:00 Machine daemon_logs[6222]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:34:00 Machine daemon_logs[6349]: Collecting Department Reports
+Mar 17 00:34:00 Machine daemon_logs[6222]: ERROR: Failed to retrieve department reports, STATUS: 1
+Mar 17 00:34:00 Machine daemon_logs[6351]: Backup Executing
+Mar 17 00:34:00 Machine daemon_logs[6222]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:34:30 Machine daemon_logs[6405]: Unlocking directories
+Mar 17 00:34:30 Machine daemon_logs[6222]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:34:30 Machine daemon_logs[6410]: Generating reports
+Mar 17 00:34:30 Machine daemon_logs[6222]: ERROR: Failed to generate reports, STATUS: 1
+Mar 17 00:36:26 Machine daemon_logs[6547]: Daemon Started
+Mar 17 00:37:00 Machine daemon_logs[6547]: Checking for department reports
+Mar 17 00:37:00 Machine daemon_logs[6547]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 00:37:00 Machine daemon_logs[6547]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 00:37:00 Machine daemon_logs[6547]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 00:37:00 Machine daemon_logs[6547]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 00:38:00 Machine daemon_logs[6586]: Locking directories
+Mar 17 00:38:01 Machine daemon_logs[6547]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:38:01 Machine daemon_logs[6588]: Collecting Department Reports
+Mar 17 00:38:01 Machine daemon_logs[6547]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 00:38:01 Machine daemon_logs[6590]: Backup Executing
+Mar 17 00:38:01 Machine daemon_logs[6547]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:38:31 Machine daemon_logs[6595]: Unlocking directories
+Mar 17 00:38:31 Machine daemon_logs[6547]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:38:31 Machine daemon_logs[6599]: Generating reports
+Mar 17 00:38:31 Machine daemon_logs[6547]: Generated reports successfully, STATUS: 0
+Mar 17 00:50:04 Machine daemon_logs[7163]: Daemon Started
+Mar 17 00:51:00 Machine daemon_logs[7163]: Checking for department reports
+Mar 17 00:51:00 Machine daemon_logs[7163]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 00:51:00 Machine daemon_logs[7163]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 00:51:00 Machine daemon_logs[7163]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 00:51:00 Machine daemon_logs[7163]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 00:51:06 Machine daemon_logs[7263]: Daemon Started
+Mar 17 00:52:00 Machine daemon_logs[7298]: Locking directories
+Mar 17 00:52:00 Machine daemon_logs[7163]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:52:00 Machine daemon_logs[7300]: Collecting Department Reports
+Mar 17 00:52:00 Machine daemon_logs[7163]: ERROR: Failed to retrieve department reports, STATUS: 1
+Mar 17 00:52:00 Machine daemon_logs[7302]: Backup Executing
+Mar 17 00:52:00 Machine daemon_logs[7163]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:52:30 Machine daemon_logs[7350]: Unlocking directories
+Mar 17 00:52:30 Machine daemon_logs[7163]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:52:30 Machine daemon_logs[7354]: Generating reports
+Mar 17 00:52:30 Machine daemon_logs[7163]: Generated reports successfully, STATUS: 0
+Mar 17 00:55:53 Machine daemon_logs[7581]: Daemon Started
+Mar 17 00:56:56 Machine daemon_logs[7718]: Daemon Started
+Mar 17 00:57:00 Machine daemon_logs[7581]: Checking for department reports
+Mar 17 00:57:00 Machine daemon_logs[7581]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has not been uploaded
+Mar 17 00:57:00 Machine daemon_logs[7581]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has not been uploaded
+Mar 17 00:57:00 Machine daemon_logs[7581]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has not been uploaded
+Mar 17 00:57:00 Machine daemon_logs[7581]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has not been uploaded
+Mar 17 00:58:00 Machine daemon_logs[7757]: Locking directories
+Mar 17 00:58:00 Machine daemon_logs[7581]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 00:58:00 Machine daemon_logs[7759]: Collecting Department Reports
+Mar 17 00:58:00 Machine daemon_logs[7581]: ERROR: Failed to retrieve department reports, STATUS: 1
+Mar 17 00:58:00 Machine daemon_logs[7761]: Backup Executing
+Mar 17 00:58:00 Machine daemon_logs[7581]: Dashboard backed up successfully, STATUS: 0
+Mar 17 00:58:30 Machine daemon_logs[7785]: Unlocking directories
+Mar 17 00:58:30 Machine daemon_logs[7581]: Directories successfully unlocked, STATUS: 0
+Mar 17 00:58:30 Machine daemon_logs[7788]: Generating reports
+Mar 17 00:58:30 Machine daemon_logs[7581]: Generated reports successfully, STATUS: 0
+Mar 17 01:00:39 Machine daemon_logs[7927]: Daemon Started
+Mar 17 01:03:00 Machine daemon_logs[7927]: Checking for department reports
+Mar 17 01:03:00 Machine daemon_logs[7927]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 01:03:00 Machine daemon_logs[7927]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 01:03:00 Machine daemon_logs[7927]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 01:03:00 Machine daemon_logs[7927]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 01:04:00 Machine daemon_logs[7969]: Locking directories
+Mar 17 01:04:00 Machine daemon_logs[7927]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 01:04:00 Machine daemon_logs[7971]: Collecting Department Reports
+Mar 17 01:04:00 Machine daemon_logs[7927]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 01:04:00 Machine daemon_logs[7973]: Backup Executing
+Mar 17 01:04:00 Machine daemon_logs[7927]: Dashboard backed up successfully, STATUS: 0
+Mar 17 01:04:30 Machine daemon_logs[7982]: Unlocking directories
+Mar 17 01:04:30 Machine daemon_logs[7927]: Directories successfully unlocked, STATUS: 0
+Mar 17 01:04:30 Machine daemon_logs[7986]: Generating reports
+Mar 17 01:04:30 Machine daemon_logs[7927]: Generated reports successfully, STATUS: 0
+Mar 17 01:13:38 Machine daemon_logs[8392]: Daemon Started
+Mar 17 01:14:00 Machine daemon_logs[8392]: Checking for department reports
+Mar 17 01:14:00 Machine daemon_logs[8392]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 01:14:00 Machine daemon_logs[8392]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 01:14:00 Machine daemon_logs[8392]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 01:14:00 Machine daemon_logs[8392]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 01:15:00 Machine daemon_logs[8438]: Locking directories
+Mar 17 01:15:00 Machine daemon_logs[8392]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 01:15:00 Machine daemon_logs[8440]: Collecting Department Reports
+Mar 17 01:15:00 Machine daemon_logs[8392]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 01:15:00 Machine daemon_logs[8442]: Backup Executing
+Mar 17 01:15:00 Machine daemon_logs[8392]: Dashboard backed up successfully, STATUS: 0
+Mar 17 01:15:30 Machine daemon_logs[8449]: Unlocking directories
+Mar 17 01:15:30 Machine daemon_logs[8392]: Directories successfully unlocked, STATUS: 0
+Mar 17 01:15:30 Machine daemon_logs[8453]: Generating reports
+Mar 17 01:15:30 Machine daemon_logs[8392]: Generated reports successfully, STATUS: 0
+Mar 17 01:19:42 Machine daemon_logs[8701]: Daemon Started
+Mar 17 01:20:00 Machine daemon_logs[8701]: Checking for department reports
+Mar 17 01:20:00 Machine daemon_logs[8701]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 01:20:00 Machine daemon_logs[8701]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 01:20:00 Machine daemon_logs[8701]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 01:20:00 Machine daemon_logs[8701]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 01:21:00 Machine daemon_logs[8732]: Locking directories
+Mar 17 01:21:00 Machine daemon_logs[8701]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 01:21:00 Machine daemon_logs[8734]: Collecting Department Reports
+Mar 17 01:21:00 Machine daemon_logs[8701]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 01:21:00 Machine daemon_logs[8736]: Backup Executing
+Mar 17 01:21:00 Machine daemon_logs[8701]: Dashboard backed up successfully, STATUS: 0
+Mar 17 01:21:30 Machine daemon_logs[8744]: Unlocking directories
+Mar 17 01:21:30 Machine daemon_logs[8701]: Directories successfully unlocked, STATUS: 0
+Mar 17 01:21:30 Machine daemon_logs[8748]: Generating reports
+Mar 17 01:21:30 Machine daemon_logs[8701]: Generated reports successfully, STATUS: 0
+Mar 17 13:55:23 Machine daemon_logs[4303]: Daemon Started
+Mar 17 13:56:00 Machine daemon_logs[4303]: Checking for department reports
+Mar 17 13:56:00 Machine daemon_logs[4303]: File /home/vboxuser/ca/company_folder/xml_reports/distribution_report.xml has been uploaded
+Mar 17 13:56:00 Machine daemon_logs[4303]: File /home/vboxuser/ca/company_folder/xml_reports/manufacturing_report.xml has been uploaded
+Mar 17 13:56:00 Machine daemon_logs[4303]: File /home/vboxuser/ca/company_folder/xml_reports/sales_report.xml has been uploaded
+Mar 17 13:56:00 Machine daemon_logs[4303]: File /home/vboxuser/ca/company_folder/xml_reports/warehouse_report.xml has been uploaded
+Mar 17 13:57:00 Machine daemon_logs[4330]: Locking directories
+Mar 17 13:57:00 Machine daemon_logs[4303]: Directories are locked until data transfer and backup is completed, STATUS: 0
+Mar 17 13:57:00 Machine daemon_logs[4332]: Collecting Department Reports
+Mar 17 13:57:00 Machine daemon_logs[4303]: Successfully collected reports from upload directory, STATUS: 0
+Mar 17 13:57:00 Machine daemon_logs[4334]: Backup Executing
+Mar 17 13:57:00 Machine daemon_logs[4303]: Dashboard backed up successfully, STATUS: 0
+Mar 17 13:57:30 Machine daemon_logs[4342]: Unlocking directories
+Mar 17 13:57:30 Machine daemon_logs[4303]: Directories successfully unlocked, STATUS: 0
+Mar 17 13:57:30 Machine daemon_logs[4346]: Generating reports
